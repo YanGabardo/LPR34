@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\bin\Debug\net9.0\CodigoPeca.exe
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\bin\Debug\net9.0\CodigoPeca.deps.json
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\bin\Debug\net9.0\CodigoPeca.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\bin\Debug\net9.0\CodigoPeca.dll
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\bin\Debug\net9.0\CodigoPeca.pdb
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\obj\Debug\net9.0\CodigoPeca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\obj\Debug\net9.0\CodigoPeca.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\obj\Debug\net9.0\CodigoPeca.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\obj\Debug\net9.0\CodigoPeca.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\obj\Debug\net9.0\CodigoPeca.dll
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\obj\Debug\net9.0\refint\CodigoPeca.dll
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\obj\Debug\net9.0\CodigoPeca.pdb
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\obj\Debug\net9.0\CodigoPeca.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR34\Aula2\CodigoPeca\obj\Debug\net9.0\ref\CodigoPeca.dll

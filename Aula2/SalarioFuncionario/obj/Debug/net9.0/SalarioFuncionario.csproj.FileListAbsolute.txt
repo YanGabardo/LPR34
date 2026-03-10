@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\bin\Debug\net9.0\SalarioFuncionario.exe
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\bin\Debug\net9.0\SalarioFuncionario.deps.json
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\bin\Debug\net9.0\SalarioFuncionario.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\bin\Debug\net9.0\SalarioFuncionario.dll
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\bin\Debug\net9.0\SalarioFuncionario.pdb
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\obj\Debug\net9.0\SalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\obj\Debug\net9.0\SalarioFuncionario.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\obj\Debug\net9.0\SalarioFuncionario.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\obj\Debug\net9.0\SalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\obj\Debug\net9.0\SalarioFuncionario.dll
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\obj\Debug\net9.0\refint\SalarioFuncionario.dll
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\obj\Debug\net9.0\SalarioFuncionario.pdb
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\obj\Debug\net9.0\SalarioFuncionario.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR34\Aula2\SalarioFuncionario\obj\Debug\net9.0\ref\SalarioFuncionario.dll
