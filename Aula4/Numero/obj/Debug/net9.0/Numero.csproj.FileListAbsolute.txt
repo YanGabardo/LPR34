@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\bin\Debug\net9.0\Numero.exe
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\bin\Debug\net9.0\Numero.deps.json
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\bin\Debug\net9.0\Numero.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\bin\Debug\net9.0\Numero.dll
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\bin\Debug\net9.0\Numero.pdb
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\Numero.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\Numero.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\Numero.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\Numero.sourcelink.json
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\Numero.dll
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\refint\Numero.dll
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\Numero.pdb
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\Numero.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR34\Aula4\Numero\obj\Debug\net9.0\ref\Numero.dll

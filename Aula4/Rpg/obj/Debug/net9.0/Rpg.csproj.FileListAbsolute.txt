@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\bin\Debug\net9.0\Rpg.exe
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\bin\Debug\net9.0\Rpg.deps.json
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\bin\Debug\net9.0\Rpg.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\bin\Debug\net9.0\Rpg.dll
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\bin\Debug\net9.0\Rpg.pdb
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\Rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\Rpg.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\Rpg.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\Rpg.sourcelink.json
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\Rpg.dll
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\refint\Rpg.dll
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\Rpg.pdb
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\Rpg.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR34\Aula4\Rpg\obj\Debug\net9.0\ref\Rpg.dll
