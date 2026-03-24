@@ -8,7 +8,7 @@ int main() {
     cin >> A >> B; //entra com os nmeros
 
     if (A % B == 0 || B % A == 0) {
-        cout << "Sao Multiplos" << endl;
+        cout << "Saoo Multiplos" << endl;
     } else {
         cout << "Não sao Multiplos" << endl;
     }

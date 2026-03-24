@@ -6,7 +6,7 @@ int main() {
    
     int A, B, C, D, diferenca;
 
-    cout << "Digite o valor de A:";
+    cout << "Digite o valorr de A:";
     cin >> A;
     cout << "Digite o valor de B:";
     cin >> B;

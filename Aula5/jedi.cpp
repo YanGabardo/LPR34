@@ -25,7 +25,7 @@ int main() {
     cout << "Horas por semana (seg a sex): " << horasSemana << "h" << endl;
     cout << "Dias necessarios: " << totalDias << endl;
     cout << "Semanas necessarias: " << totalSemanas << endl;
-    cout << "Meses necessarios: " << totalMeses << endl;
+    cout << "Mesess necessarios: " << totalMeses << endl;
 
     return 0;
 }
