@@ -1,0 +1,15 @@
+C:\LPR34\Aula5\somamultiplo\bin\Debug\net9.0\somamultiplo.exe
+C:\LPR34\Aula5\somamultiplo\bin\Debug\net9.0\somamultiplo.deps.json
+C:\LPR34\Aula5\somamultiplo\bin\Debug\net9.0\somamultiplo.runtimeconfig.json
+C:\LPR34\Aula5\somamultiplo\bin\Debug\net9.0\somamultiplo.dll
+C:\LPR34\Aula5\somamultiplo\bin\Debug\net9.0\somamultiplo.pdb
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\somamultiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\somamultiplo.AssemblyInfoInputs.cache
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\somamultiplo.AssemblyInfo.cs
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\somamultiplo.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\somamultiplo.sourcelink.json
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\somamultiplo.dll
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\refint\somamultiplo.dll
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\somamultiplo.pdb
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\somamultiplo.genruntimeconfig.cache
+C:\LPR34\Aula5\somamultiplo\obj\Debug\net9.0\ref\somamultiplo.dll

@@ -1,0 +1,15 @@
+C:\LPR34\Aula5\mediaari\bin\Debug\net9.0\mediaari.exe
+C:\LPR34\Aula5\mediaari\bin\Debug\net9.0\mediaari.deps.json
+C:\LPR34\Aula5\mediaari\bin\Debug\net9.0\mediaari.runtimeconfig.json
+C:\LPR34\Aula5\mediaari\bin\Debug\net9.0\mediaari.dll
+C:\LPR34\Aula5\mediaari\bin\Debug\net9.0\mediaari.pdb
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\mediaari.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\mediaari.AssemblyInfoInputs.cache
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\mediaari.AssemblyInfo.cs
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\mediaari.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\mediaari.sourcelink.json
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\mediaari.dll
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\refint\mediaari.dll
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\mediaari.pdb
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\mediaari.genruntimeconfig.cache
+C:\LPR34\Aula5\mediaari\obj\Debug\net9.0\ref\mediaari.dll

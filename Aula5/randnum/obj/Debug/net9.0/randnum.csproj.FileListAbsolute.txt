@@ -1,0 +1,15 @@
+C:\LPR34\Aula5\randnum\bin\Debug\net9.0\randnum.exe
+C:\LPR34\Aula5\randnum\bin\Debug\net9.0\randnum.deps.json
+C:\LPR34\Aula5\randnum\bin\Debug\net9.0\randnum.runtimeconfig.json
+C:\LPR34\Aula5\randnum\bin\Debug\net9.0\randnum.dll
+C:\LPR34\Aula5\randnum\bin\Debug\net9.0\randnum.pdb
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\randnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\randnum.AssemblyInfoInputs.cache
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\randnum.AssemblyInfo.cs
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\randnum.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\randnum.sourcelink.json
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\randnum.dll
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\refint\randnum.dll
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\randnum.pdb
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\randnum.genruntimeconfig.cache
+C:\LPR34\Aula5\randnum\obj\Debug\net9.0\ref\randnum.dll
