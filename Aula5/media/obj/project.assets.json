@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LPR34\\Aula2\\SalarioFuncionario\\SalarioFuncionario.csproj",
-      "projectName": "SalarioFuncionario",
-      "projectPath": "C:\\LPR34\\Aula2\\SalarioFuncionario\\SalarioFuncionario.csproj",
+      "projectUniqueName": "C:\\LPR34\\Aula5\\media\\media.csproj",
+      "projectName": "media",
+      "projectPath": "C:\\LPR34\\Aula5\\media\\media.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\LPR34\\Aula2\\SalarioFuncionario\\obj\\",
+      "outputPath": "C:\\LPR34\\Aula5\\media\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
