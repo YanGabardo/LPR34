@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "VetorParImpar/1.0.0": {
+        "runtime": {
+          "VetorParImpar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VetorParImpar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

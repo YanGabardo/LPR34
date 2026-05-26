@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LPR34\\Aula4\\Numero\\Numero.csproj",
-      "projectName": "Numero",
-      "projectPath": "C:\\LPR34\\Aula4\\Numero\\Numero.csproj",
+      "projectUniqueName": "C:\\LPR34\\Aula7\\VetorParImpar\\VetorParImpar.csproj",
+      "projectName": "VetorParImpar",
+      "projectPath": "C:\\LPR34\\Aula7\\VetorParImpar\\VetorParImpar.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\LPR34\\Aula4\\Numero\\obj\\",
+      "outputPath": "C:\\LPR34\\Aula7\\VetorParImpar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

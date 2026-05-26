@@ -1,0 +1,15 @@
+C:\LPR34\Aula7\VetorParImpar\bin\Debug\net9.0\VetorParImpar.exe
+C:\LPR34\Aula7\VetorParImpar\bin\Debug\net9.0\VetorParImpar.deps.json
+C:\LPR34\Aula7\VetorParImpar\bin\Debug\net9.0\VetorParImpar.runtimeconfig.json
+C:\LPR34\Aula7\VetorParImpar\bin\Debug\net9.0\VetorParImpar.dll
+C:\LPR34\Aula7\VetorParImpar\bin\Debug\net9.0\VetorParImpar.pdb
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\VetorParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\VetorParImpar.AssemblyInfoInputs.cache
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\VetorParImpar.AssemblyInfo.cs
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\VetorParImpar.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\VetorParImpar.sourcelink.json
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\VetorParImpar.dll
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\refint\VetorParImpar.dll
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\VetorParImpar.pdb
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\VetorParImpar.genruntimeconfig.cache
+C:\LPR34\Aula7\VetorParImpar\obj\Debug\net9.0\ref\VetorParImpar.dll

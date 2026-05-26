@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodigoPeca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fb40db03e75b98f08eed9f49786d76b2fb721c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bf0f0e8ff4e53f010ce70ecf39b4a2ceef75ef7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodigoPeca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodigoPeca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
