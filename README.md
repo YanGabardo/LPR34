@@ -20,4 +20,4 @@ Nesta aula foram apresentados os conceitos de funções e métodos, mostrando co
 
 # Aula 07 - Vetores e Matrizes
 
-Nesta aula foram estudadas as variáveis compostas homogéneas, compreendendo o conceito, a estrutura e a aplicação prática de vetores e matrizes utilizando as linguagens C# e C++.
+Nesta aula foram estudadas as variáveis compostas homogéneas, compreendendo o conceito, a estrutura e a aplicação prática de vetores e matrizes.
