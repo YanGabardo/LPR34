@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Entrar com 10 numeros inteiros em um vetor
+// entrar com 10 numeros inteiros em um vetor
 int main()
 {
     int vetor[10], num, posicao = -1;
@@ -12,7 +12,7 @@ int main()
         cin >> vetor[i];
     }
 
-    // Pesquisar o numero no vetor
+    // pesquisar o numero no vetor
     cout << "Digite um numero para pesquisar: ";
     cin >> num;
 
