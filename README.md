@@ -21,3 +21,7 @@ Nesta aula foram apresentados os conceitos de funções e métodos, mostrando co
 # Aula 07 - Vetores e Matrizes
 
 Nesta aula foram estudadas as variáveis compostas homogéneas, compreendendo o conceito, a estrutura e a aplicação prática de vetores e matrizes.
+
+# Aula 08 - Structs
+
+Nesta aula foram estudadas as structs, estruturas utilizadas para armazenar diferentes tipos de dados em uma única variável, permitindo organizar informações relacionadas de forma mais prática e eficiente.
