@@ -24,13 +24,16 @@ class Program
         }
 
         Console.Write("Nome do herói: ");
-        herois[quantidade].Nome = Console.ReadLine();
+        herois[quantidade].Nome = Console.ReadLine()!;
 
         Console.Write("Poder do herói: ");
-        herois[quantidade].Poder = Console.ReadLine();
+        herois[quantidade].Poder = Console.ReadLine()!;
 
         Console.Write("Pontuação: ");
-        herois[quantidade].Pontuacao = float.Parse(Console.ReadLine());
+        while (!float.TryParse(Console.ReadLine(), out herois[quantidade].Pontuacao))
+        {
+            Console.Write("Digite uma pontuação válida: ");
+        }
 
         quantidade++;
 
@@ -45,6 +48,8 @@ class Program
             return;
         }
 
+        equipe.Herois = new Heroi[3];
+
         Console.WriteLine("\n=== HERÓIS DISPONÍVEIS ===");
 
         for (int i = 0; i < quantidade; i++)
@@ -52,24 +57,46 @@ class Program
             Console.WriteLine($"{i + 1} - {herois[i].Nome} | Poder: {herois[i].Poder} | Pontuação: {herois[i].Pontuacao}");
         }
 
+        bool[] escolhido = new bool[quantidade];
+
         for (int i = 0; i < 3; i++)
         {
-            Console.Write($"\nEscolha o herói {i + 1}: ");
-            int escolha = int.Parse(Console.ReadLine());
+            int escolha;
 
+            do
+            {
+                Console.Write($"\nEscolha o herói {i + 1}: ");
+
+                while (!int.TryParse(Console.ReadLine(), out escolha))
+                {
+                    Console.Write("Digite um número válido: ");
+                }
+
+                if (escolha < 1 || escolha > quantidade)
+                {
+                    Console.WriteLine("Herói inexistente.");
+                }
+                else if (escolhido[escolha - 1])
+                {
+                    Console.WriteLine("Esse herói já foi escolhido.");
+                }
+
+            } while (escolha < 1 || escolha > quantidade || escolhido[escolha - 1]);
+
+            escolhido[escolha - 1] = true;
             equipe.Herois[i] = herois[escolha - 1];
         }
 
         equipe.PontuacaoTotal = CalcularPontuacaoTotal(equipe);
 
-        Console.WriteLine("Equipe selecionada com sucesso!");
+        Console.WriteLine("\nEquipe selecionada com sucesso!");
     }
 
     static float CalcularPontuacaoTotal(Equipe equipe)
     {
         float total = 0;
 
-        for (int i = 0; i < 3; i++)
+        for (int i = 0; i < equipe.Herois.Length; i++)
         {
             total += equipe.Herois[i].Pontuacao;
         }
@@ -79,17 +106,20 @@ class Program
 
     static void ExibirEquipe(Equipe equipe)
     {
+        if (equipe.Herois == null || equipe.Herois[0].Nome == null)
+        {
+            Console.WriteLine("Nenhuma equipe foi montada.");
+            return;
+        }
+
         Console.WriteLine("\n=== EQUIPE MARVEL ===");
 
-        for (int i = 0; i < 3; i++)
+        for (int i = 0; i < equipe.Herois.Length; i++)
         {
-            if (equipe.Herois[i].Nome != null)
-            {
-                Console.WriteLine($"Herói: {equipe.Herois[i].Nome}");
-                Console.WriteLine($"Poder: {equipe.Herois[i].Poder}");
-                Console.WriteLine($"Pontuação: {equipe.Herois[i].Pontuacao}");
-                Console.WriteLine();
-            }
+            Console.WriteLine($"Herói: {equipe.Herois[i].Nome}");
+            Console.WriteLine($"Poder: {equipe.Herois[i].Poder}");
+            Console.WriteLine($"Pontuação: {equipe.Herois[i].Pontuacao}");
+            Console.WriteLine();
         }
 
         Console.WriteLine($"Pontuação Total da Equipe: {equipe.PontuacaoTotal}");
@@ -115,7 +145,10 @@ class Program
             Console.WriteLine("4 - Sair");
             Console.Write("Escolha uma opção: ");
 
-            opcao = int.Parse(Console.ReadLine());
+            while (!int.TryParse(Console.ReadLine(), out opcao))
+            {
+                Console.Write("Digite uma opção válida: ");
+            }
 
             switch (opcao)
             {

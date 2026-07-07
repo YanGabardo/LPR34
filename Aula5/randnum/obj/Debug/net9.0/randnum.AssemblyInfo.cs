@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("randnum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8f2e0eb5acc5838f1760bc24ab61c7d5d75eda8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daeda29bd1078f61b96d18150697dfa84f18e359")]
 [assembly: System.Reflection.AssemblyProductAttribute("randnum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("randnum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
