@@ -1,27 +1,90 @@
-# Aula 02 - Introdução à Lógica de Programação
+# 📚 Disciplina de Programação
 
-Nesta aula foram apresentados os conceitos básicos de programação, como tipos de dados, variáveis, constantes, operadores e comandos de entrada e saída.
+![C#](https://img.shields.io/badge/C%23-Programming-512BD4?logo=csharp)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
 
-# Aula 03 - GitHub e Controle de Versionamento
+Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante as aulas da disciplina de Programação.
 
-Nesta aula foram estudados os conceitos de Git e GitHub, aprendendo a criar repositórios, utilizar commits, branches e os principais comandos de versionamento.
+## Conteúdo das Aulas
 
-# Aula 04 - Estruturas de Seleção
+### 📖 Aula 02 - Introdução à Lógica de Programação
+**Conteúdos abordados:**
+- Tipos de dados
+- Variáveis e constantes
+- Operadores
+- Entrada e saída de dados
+- Primeiros algoritmos
 
-Nesta aula foram apresentadas as estruturas de decisão, utilizando `if`, `else if` e `switch case` para controlar o fluxo dos programas conforme diferentes condições.
+---
 
-# Aula 05 - Estruturas de Repetição
+### 🌿 Aula 03 - Git e GitHub
+**Conteúdos abordados:**
+- Conceitos de Git e GitHub
+- Criação de repositórios
+- Commits
+- Branches
+- Merge
+- Principais comandos de versionamento
 
-Nesta aula foram estudados os laços de repetição `for`, `while` e `do while`, utilizados para repetir comandos de forma automática em diferentes situações dentro de um programa.
+---
 
-# Aula 06 - Funções
+### 🔀 Aula 04 - Estruturas de Seleção
+**Conteúdos abordados:**
+- `if`
+- `else if`
+- `switch`
+- Operadores relacionais e lógicos
+- Tomada de decisão
 
-Nesta aula foram apresentados os conceitos de funções e métodos, mostrando como organizar o código em partes reutilizáveis, utilizando parâmetros e retorno de valores em C# e C++.
+---
 
-# Aula 07 - Vetores e Matrizes
+### 🔁 Aula 05 - Estruturas de Repetição
+**Conteúdos abordados:**
+- `for`
+- `while`
+- `do while`
+- Controle de laços
+- Repetição de instruções
 
-Nesta aula foram estudadas as variáveis compostas homogéneas, compreendendo o conceito, a estrutura e a aplicação prática de vetores e matrizes.
+---
 
-# Aula 08 - Structs
+### ⚙️ Aula 06 - Funções
+**Conteúdos abordados:**
+- Criação de funções
+- Parâmetros
+- Retorno de valores
+- Organização e reutilização de código
+- Métodos em C# e C++
 
-Nesta aula foram estudadas as structs, estruturas utilizadas para armazenar diferentes tipos de dados em uma única variável, permitindo organizar informações relacionadas de forma mais prática e eficiente.
+---
+
+### 📊 Aula 07 - Vetores e Matrizes
+**Conteúdos abordados:**
+- Vetores
+- Matrizes
+- Percorrendo estruturas
+- Manipulação de dados
+- Aplicações práticas
+
+---
+
+### 🧩 Aula 08 - Structs
+**Conteúdos abordados:**
+- Estruturas (`struct`)
+- Organização de dados
+- Agrupamento de diferentes tipos de informações
+- Aplicações em C# e C++
+
+---
+
+## 🛠️ Linguagens utilizadas
+
+- C#
+- C++
+- Git
+- GitHub
+
+## 🎯 Objetivo
+
+Este repositório reúne as atividades realizadas durante as aulas, servindo como material de estudo, prática e consulta sobre os principais conceitos de programação.
