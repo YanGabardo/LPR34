@@ -90,11 +90,6 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 - C#
 - C++
 
-## Tecnologias utilizadas
-
-- Git
-- GitHub
-
 ## Informações
 
 | Campo | Informação |
