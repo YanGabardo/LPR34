@@ -1,4 +1,4 @@
-# 📚 Disciplina de Programação
+# 📚 Linguagem de Programação
 
 ![C#](https://img.shields.io/badge/C%23-Programming-purple)
 ![C++](https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
@@ -9,7 +9,7 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 ## Conteúdo das Aulas
 
-### 📖 Aula 02 - Introdução à Lógica de Programação
+### Aula 02 - Introdução à Lógica de Programação
 **Conteúdos abordados:**
 - Tipos de dados
 - Variáveis e constantes
@@ -19,7 +19,7 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 ---
 
-### 🌿 Aula 03 - Git e GitHub
+### Aula 03 - Git e GitHub
 **Conteúdos abordados:**
 - Conceitos de Git e GitHub
 - Criação de repositórios
@@ -30,7 +30,7 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 ---
 
-### 🔀 Aula 04 - Estruturas de Seleção
+### Aula 04 - Estruturas de Seleção
 **Conteúdos abordados:**
 - `if`
 - `else if`
@@ -40,7 +40,7 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 ---
 
-### 🔁 Aula 05 - Estruturas de Repetição
+### Aula 05 - Estruturas de Repetição
 **Conteúdos abordados:**
 - `for`
 - `while`
@@ -50,7 +50,7 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 ---
 
-### ⚙️ Aula 06 - Funções
+### Aula 06 - Funções
 **Conteúdos abordados:**
 - Criação de funções
 - Parâmetros
@@ -59,7 +59,7 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 ---
 
-### 📊 Aula 07 - Vetores e Matrizes
+### Aula 07 - Vetores e Matrizes
 **Conteúdos abordados:**
 - Vetores
 - Matrizes
@@ -68,7 +68,7 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 ---
 
-### 🧩 Aula 08 - Structs
+### Aula 08 - Structs
 **Conteúdos abordados:**
 - Estruturas (`struct`)
 - Organização de dados
@@ -80,9 +80,16 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 - C#
 - C++
+
+## Tecnologias utilizadas
+
 - Git
 - GitHub
 
-## 🎯 Objetivo
+## Informações
 
-Este repositório reúne as atividades realizadas durante as aulas, servindo como material de estudo, prática e consulta sobre os principais conceitos de programação.
+| Campo | Informação |
+|-------|------------|
+| **Professor** | José Andery |
+| **Aluno** | Yan Gabardo Souza |
+| **Ano** | 2026 |
