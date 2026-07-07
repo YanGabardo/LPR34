@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("somamultiplo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daeda29bd1078f61b96d18150697dfa84f18e359")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+185986f8a91b2f9f2cb2e3b244715e89bf3f6249")]
 [assembly: System.Reflection.AssemblyProductAttribute("somamultiplo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("somamultiplo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
