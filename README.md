@@ -78,11 +78,10 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 ### Aula 09 - Listas e Dicionários
 **Conteúdos abordados:**
-- [cite_start]Listas e vetores dinâmicos [cite: 1, 7]
-- [cite_start]Manipulação de elementos (inserção e remoção) [cite: 1, 13]
-- [cite_start]Dicionários (estruturas de par chave-valor) [cite: 1, 100]
-- [cite_start]Inferência de tipos com `var` (C#) e `auto` (C++) [cite: 1, 108, 112]
-- [cite_start]Implementação prática e métodos em C# e C++
+- Listas e vetores dinâmicos
+- Manipulação de elementos 
+- Dicionários 
+- Inferência de tipos com `var` (C#) e `auto` (C++)
 
 ---
 
