@@ -1,8 +1,9 @@
 # 📚 Disciplina de Programação
 
-![C#](https://img.shields.io/badge/C%23-Programming-512BD4?logo=csharp)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
+![C#](https://img.shields.io/badge/C%23-Programming-purple)
+![C++](https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
 Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante as aulas da disciplina de Programação.
 
@@ -55,7 +56,6 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 - Parâmetros
 - Retorno de valores
 - Organização e reutilização de código
-- Métodos em C# e C++
 
 ---
 
@@ -65,7 +65,6 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 - Matrizes
 - Percorrendo estruturas
 - Manipulação de dados
-- Aplicações práticas
 
 ---
 
@@ -74,7 +73,6 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 - Estruturas (`struct`)
 - Organização de dados
 - Agrupamento de diferentes tipos de informações
-- Aplicações em C# e C++
 
 ---
 
