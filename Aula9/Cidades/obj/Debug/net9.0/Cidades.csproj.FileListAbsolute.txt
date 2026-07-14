@@ -1,0 +1,15 @@
+C:\LPR34\Aula9\Cidades\bin\Debug\net9.0\Cidades.exe
+C:\LPR34\Aula9\Cidades\bin\Debug\net9.0\Cidades.deps.json
+C:\LPR34\Aula9\Cidades\bin\Debug\net9.0\Cidades.runtimeconfig.json
+C:\LPR34\Aula9\Cidades\bin\Debug\net9.0\Cidades.dll
+C:\LPR34\Aula9\Cidades\bin\Debug\net9.0\Cidades.pdb
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\Cidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\Cidades.AssemblyInfoInputs.cache
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\Cidades.AssemblyInfo.cs
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\Cidades.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\Cidades.sourcelink.json
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\Cidades.dll
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\refint\Cidades.dll
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\Cidades.pdb
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\Cidades.genruntimeconfig.cache
+C:\LPR34\Aula9\Cidades\obj\Debug\net9.0\ref\Cidades.dll

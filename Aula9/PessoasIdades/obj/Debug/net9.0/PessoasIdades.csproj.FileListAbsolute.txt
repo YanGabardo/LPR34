@@ -1,0 +1,15 @@
+C:\LPR34\Aula9\PessoasIdades\bin\Debug\net9.0\PessoasIdades.exe
+C:\LPR34\Aula9\PessoasIdades\bin\Debug\net9.0\PessoasIdades.deps.json
+C:\LPR34\Aula9\PessoasIdades\bin\Debug\net9.0\PessoasIdades.runtimeconfig.json
+C:\LPR34\Aula9\PessoasIdades\bin\Debug\net9.0\PessoasIdades.dll
+C:\LPR34\Aula9\PessoasIdades\bin\Debug\net9.0\PessoasIdades.pdb
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\PessoasIdades.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\PessoasIdades.AssemblyInfoInputs.cache
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\PessoasIdades.AssemblyInfo.cs
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\PessoasIdades.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\PessoasIdades.sourcelink.json
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\PessoasIdades.dll
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\refint\PessoasIdades.dll
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\PessoasIdades.pdb
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\PessoasIdades.genruntimeconfig.cache
+C:\LPR34\Aula9\PessoasIdades\obj\Debug\net9.0\ref\PessoasIdades.dll

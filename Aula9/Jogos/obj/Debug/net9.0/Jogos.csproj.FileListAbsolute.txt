@@ -1,0 +1,15 @@
+C:\LPR34\Aula9\Jogos\bin\Debug\net9.0\Jogos.exe
+C:\LPR34\Aula9\Jogos\bin\Debug\net9.0\Jogos.deps.json
+C:\LPR34\Aula9\Jogos\bin\Debug\net9.0\Jogos.runtimeconfig.json
+C:\LPR34\Aula9\Jogos\bin\Debug\net9.0\Jogos.dll
+C:\LPR34\Aula9\Jogos\bin\Debug\net9.0\Jogos.pdb
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\Jogos.AssemblyInfoInputs.cache
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\Jogos.AssemblyInfo.cs
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\Jogos.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\Jogos.sourcelink.json
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\Jogos.dll
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\refint\Jogos.dll
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\Jogos.pdb
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\Jogos.genruntimeconfig.cache
+C:\LPR34\Aula9\Jogos\obj\Debug\net9.0\ref\Jogos.dll

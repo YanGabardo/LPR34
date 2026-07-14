@@ -1,0 +1,15 @@
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\Livros.AssemblyInfoInputs.cache
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\Livros.AssemblyInfo.cs
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\Livros.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\Livros.sourcelink.json
+C:\LPR34\Aula9\Livros\bin\Debug\net9.0\Livros.exe
+C:\LPR34\Aula9\Livros\bin\Debug\net9.0\Livros.deps.json
+C:\LPR34\Aula9\Livros\bin\Debug\net9.0\Livros.runtimeconfig.json
+C:\LPR34\Aula9\Livros\bin\Debug\net9.0\Livros.dll
+C:\LPR34\Aula9\Livros\bin\Debug\net9.0\Livros.pdb
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\Livros.dll
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\refint\Livros.dll
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\Livros.pdb
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\Livros.genruntimeconfig.cache
+C:\LPR34\Aula9\Livros\obj\Debug\net9.0\ref\Livros.dll
