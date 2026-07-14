@@ -5,7 +5,7 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
-Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante as aulas da disciplina de Programação.
+Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante as aulas da disciplina de Linguagens de Programação.
 
 ## Conteúdo das Aulas
 
