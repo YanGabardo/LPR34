@@ -1,0 +1,15 @@
+C:\LPR34\Aula10\Alunos\bin\Debug\net9.0\Alunos.exe
+C:\LPR34\Aula10\Alunos\bin\Debug\net9.0\Alunos.deps.json
+C:\LPR34\Aula10\Alunos\bin\Debug\net9.0\Alunos.runtimeconfig.json
+C:\LPR34\Aula10\Alunos\bin\Debug\net9.0\Alunos.dll
+C:\LPR34\Aula10\Alunos\bin\Debug\net9.0\Alunos.pdb
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\Alunos.AssemblyInfoInputs.cache
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\Alunos.AssemblyInfo.cs
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\Alunos.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\Alunos.sourcelink.json
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\Alunos.dll
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\refint\Alunos.dll
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\Alunos.pdb
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\Alunos.genruntimeconfig.cache
+C:\LPR34\Aula10\Alunos\obj\Debug\net9.0\ref\Alunos.dll

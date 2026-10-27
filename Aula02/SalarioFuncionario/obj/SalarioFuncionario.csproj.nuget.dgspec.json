@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\LPR34\\Aula02\\SalarioFuncionario\\SalarioFuncionario.csproj": {}
+    "C:\\LPR34\\Aula02\\SalarioFuncionario\\SalarioFuncionario.csproj": {}
   },
   "projects": {
-    "c:\\LPR34\\Aula02\\SalarioFuncionario\\SalarioFuncionario.csproj": {
+    "C:\\LPR34\\Aula02\\SalarioFuncionario\\SalarioFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\LPR34\\Aula02\\SalarioFuncionario\\SalarioFuncionario.csproj",
+        "projectUniqueName": "C:\\LPR34\\Aula02\\SalarioFuncionario\\SalarioFuncionario.csproj",
         "projectName": "SalarioFuncionario",
-        "projectPath": "c:\\LPR34\\Aula02\\SalarioFuncionario\\SalarioFuncionario.csproj",
+        "projectPath": "C:\\LPR34\\Aula02\\SalarioFuncionario\\SalarioFuncionario.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "c:\\LPR34\\Aula02\\SalarioFuncionario\\obj\\",
+        "outputPath": "C:\\LPR34\\Aula02\\SalarioFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

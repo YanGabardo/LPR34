@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\LPR34\\Aula09\\Cidades\\Cidades.csproj": {}
+    "C:\\LPR34\\Aula09\\Cidades\\Cidades.csproj": {}
   },
   "projects": {
-    "c:\\LPR34\\Aula09\\Cidades\\Cidades.csproj": {
+    "C:\\LPR34\\Aula09\\Cidades\\Cidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\LPR34\\Aula09\\Cidades\\Cidades.csproj",
+        "projectUniqueName": "C:\\LPR34\\Aula09\\Cidades\\Cidades.csproj",
         "projectName": "Cidades",
-        "projectPath": "c:\\LPR34\\Aula09\\Cidades\\Cidades.csproj",
+        "projectPath": "C:\\LPR34\\Aula09\\Cidades\\Cidades.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "c:\\LPR34\\Aula09\\Cidades\\obj\\",
+        "outputPath": "C:\\LPR34\\Aula09\\Cidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\LPR34\\Aula09\\PessoasIdades\\PessoasIdades.csproj": {}
+    "C:\\LPR34\\Aula09\\PessoasIdades\\PessoasIdades.csproj": {}
   },
   "projects": {
-    "c:\\LPR34\\Aula09\\PessoasIdades\\PessoasIdades.csproj": {
+    "C:\\LPR34\\Aula09\\PessoasIdades\\PessoasIdades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\LPR34\\Aula09\\PessoasIdades\\PessoasIdades.csproj",
+        "projectUniqueName": "C:\\LPR34\\Aula09\\PessoasIdades\\PessoasIdades.csproj",
         "projectName": "PessoasIdades",
-        "projectPath": "c:\\LPR34\\Aula09\\PessoasIdades\\PessoasIdades.csproj",
+        "projectPath": "C:\\LPR34\\Aula09\\PessoasIdades\\PessoasIdades.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "c:\\LPR34\\Aula09\\PessoasIdades\\obj\\",
+        "outputPath": "C:\\LPR34\\Aula09\\PessoasIdades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

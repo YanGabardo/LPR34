@@ -1,0 +1,15 @@
+C:\LPR34\Aula10\Funcionarios\bin\Debug\net9.0\Funcionarios.exe
+C:\LPR34\Aula10\Funcionarios\bin\Debug\net9.0\Funcionarios.deps.json
+C:\LPR34\Aula10\Funcionarios\bin\Debug\net9.0\Funcionarios.runtimeconfig.json
+C:\LPR34\Aula10\Funcionarios\bin\Debug\net9.0\Funcionarios.dll
+C:\LPR34\Aula10\Funcionarios\bin\Debug\net9.0\Funcionarios.pdb
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\Funcionarios.AssemblyInfoInputs.cache
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\Funcionarios.AssemblyInfo.cs
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\Funcionarios.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\Funcionarios.sourcelink.json
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\Funcionarios.dll
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\refint\Funcionarios.dll
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\Funcionarios.pdb
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\Funcionarios.genruntimeconfig.cache
+C:\LPR34\Aula10\Funcionarios\obj\Debug\net9.0\ref\Funcionarios.dll

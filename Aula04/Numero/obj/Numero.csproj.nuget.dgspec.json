@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\LPR34\\Aula04\\Numero\\Numero.csproj": {}
+    "C:\\LPR34\\Aula04\\Numero\\Numero.csproj": {}
   },
   "projects": {
-    "c:\\LPR34\\Aula04\\Numero\\Numero.csproj": {
+    "C:\\LPR34\\Aula04\\Numero\\Numero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\LPR34\\Aula04\\Numero\\Numero.csproj",
+        "projectUniqueName": "C:\\LPR34\\Aula04\\Numero\\Numero.csproj",
         "projectName": "Numero",
-        "projectPath": "c:\\LPR34\\Aula04\\Numero\\Numero.csproj",
+        "projectPath": "C:\\LPR34\\Aula04\\Numero\\Numero.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "c:\\LPR34\\Aula04\\Numero\\obj\\",
+        "outputPath": "C:\\LPR34\\Aula04\\Numero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

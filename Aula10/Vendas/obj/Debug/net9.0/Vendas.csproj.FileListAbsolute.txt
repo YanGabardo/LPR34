@@ -1,0 +1,15 @@
+C:\LPR34\Aula10\Vendas\bin\Debug\net9.0\Vendas.exe
+C:\LPR34\Aula10\Vendas\bin\Debug\net9.0\Vendas.deps.json
+C:\LPR34\Aula10\Vendas\bin\Debug\net9.0\Vendas.runtimeconfig.json
+C:\LPR34\Aula10\Vendas\bin\Debug\net9.0\Vendas.dll
+C:\LPR34\Aula10\Vendas\bin\Debug\net9.0\Vendas.pdb
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\Vendas.AssemblyInfoInputs.cache
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\Vendas.AssemblyInfo.cs
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\Vendas.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\Vendas.sourcelink.json
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\Vendas.dll
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\refint\Vendas.dll
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\Vendas.pdb
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\Vendas.genruntimeconfig.cache
+C:\LPR34\Aula10\Vendas\obj\Debug\net9.0\ref\Vendas.dll

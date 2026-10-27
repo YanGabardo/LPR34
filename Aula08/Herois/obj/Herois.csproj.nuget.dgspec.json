@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\LPR34\\Aula08\\Herois\\Herois.csproj": {}
+    "C:\\LPR34\\Aula08\\Herois\\Herois.csproj": {}
   },
   "projects": {
-    "c:\\LPR34\\Aula08\\Herois\\Herois.csproj": {
+    "C:\\LPR34\\Aula08\\Herois\\Herois.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\LPR34\\Aula08\\Herois\\Herois.csproj",
+        "projectUniqueName": "C:\\LPR34\\Aula08\\Herois\\Herois.csproj",
         "projectName": "Herois",
-        "projectPath": "c:\\LPR34\\Aula08\\Herois\\Herois.csproj",
+        "projectPath": "C:\\LPR34\\Aula08\\Herois\\Herois.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "c:\\LPR34\\Aula08\\Herois\\obj\\",
+        "outputPath": "C:\\LPR34\\Aula08\\Herois\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\LPR34\Aula10\JogoFavorito\bin\Debug\net9.0\JogoFavorito.exe
+C:\LPR34\Aula10\JogoFavorito\bin\Debug\net9.0\JogoFavorito.deps.json
+C:\LPR34\Aula10\JogoFavorito\bin\Debug\net9.0\JogoFavorito.runtimeconfig.json
+C:\LPR34\Aula10\JogoFavorito\bin\Debug\net9.0\JogoFavorito.dll
+C:\LPR34\Aula10\JogoFavorito\bin\Debug\net9.0\JogoFavorito.pdb
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\JogoFavorito.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\JogoFavorito.AssemblyInfoInputs.cache
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\JogoFavorito.AssemblyInfo.cs
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\JogoFavorito.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\JogoFavorito.sourcelink.json
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\JogoFavorito.dll
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\refint\JogoFavorito.dll
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\JogoFavorito.pdb
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\JogoFavorito.genruntimeconfig.cache
+C:\LPR34\Aula10\JogoFavorito\obj\Debug\net9.0\ref\JogoFavorito.dll

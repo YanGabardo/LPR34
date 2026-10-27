@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\LPR34\\Aula02\\CodigoPeca\\CodigoPeca.csproj": {}
+    "C:\\LPR34\\Aula02\\CodigoPeca\\CodigoPeca.csproj": {}
   },
   "projects": {
-    "c:\\LPR34\\Aula02\\CodigoPeca\\CodigoPeca.csproj": {
+    "C:\\LPR34\\Aula02\\CodigoPeca\\CodigoPeca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\LPR34\\Aula02\\CodigoPeca\\CodigoPeca.csproj",
+        "projectUniqueName": "C:\\LPR34\\Aula02\\CodigoPeca\\CodigoPeca.csproj",
         "projectName": "CodigoPeca",
-        "projectPath": "c:\\LPR34\\Aula02\\CodigoPeca\\CodigoPeca.csproj",
+        "projectPath": "C:\\LPR34\\Aula02\\CodigoPeca\\CodigoPeca.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "c:\\LPR34\\Aula02\\CodigoPeca\\obj\\",
+        "outputPath": "C:\\LPR34\\Aula02\\CodigoPeca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
