@@ -85,6 +85,20 @@ Repositório contendo os exercícios, exemplos e projetos desenvolvidos durante 
 
 ---
 
+Aula 10 - Programação Orientada a Objetos (POO)
+
+Conteúdos abordados:
+
+- Introdução à Programação Orientada a Objetos (POO)
+- Conceitos de classes e objetos
+- Atributos e métodos
+- Encapsulamento e organização do código
+- Construtores e inicialização de objetos
+- Reutilização e organização de código por meio de objetos
+- Aplicação dos conceitos de POO em C#
+
+---
+
 ## 🛠️ Linguagens utilizadas
 
 - C#
