@@ -1,0 +1,15 @@
+C:\LPR34\Aula10\AlunoTurma\bin\Debug\net9.0\AlunoTurma.exe
+C:\LPR34\Aula10\AlunoTurma\bin\Debug\net9.0\AlunoTurma.deps.json
+C:\LPR34\Aula10\AlunoTurma\bin\Debug\net9.0\AlunoTurma.runtimeconfig.json
+C:\LPR34\Aula10\AlunoTurma\bin\Debug\net9.0\AlunoTurma.dll
+C:\LPR34\Aula10\AlunoTurma\bin\Debug\net9.0\AlunoTurma.pdb
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\AlunoTurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\AlunoTurma.AssemblyInfoInputs.cache
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\AlunoTurma.AssemblyInfo.cs
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\AlunoTurma.csproj.CoreCompileInputs.cache
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\AlunoTurma.sourcelink.json
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\AlunoTurma.dll
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\refint\AlunoTurma.dll
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\AlunoTurma.pdb
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\AlunoTurma.genruntimeconfig.cache
+C:\LPR34\Aula10\AlunoTurma\obj\Debug\net9.0\ref\AlunoTurma.dll
